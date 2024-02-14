@@ -21,4 +21,4 @@ Feel free to explore and use these projects as inspiration or a starting point f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rishikashyap007/Awesome
+   git clone https://github.com/Rishikashyap007/Awesome-Web-Projects.git
